@@ -40,17 +40,20 @@ print("{:.2f}".format(result))
 ```
 ## Output:
 ### 1-Norm of a Matrix
-<br>![alt text](image-3.png)
+<br>![Screenshot 2025-05-10 092049](https://github.com/user-attachments/assets/e1f9f434-a1bd-4b52-a1f1-549ff6d226c9)
+
 <br>
 <br>
 
 ### 2-Norm of a Matrix
-<br>![alt text](image-2.png)
+<br>![Screenshot 2025-05-10 092041](https://github.com/user-attachments/assets/a3065c22-af28-400c-893e-b44c50673bf9)
+
 <br>
 <br>
 
 ### Infinity Norm of a Matrix
-<br>![alt text](image-1.png)
+<br>![Screenshot 2025-05-10 092019](https://github.com/user-attachments/assets/21d522b5-83d8-40fa-b28f-747a0c7ca59e)
+
 <br>
 <br>
 
